@@ -1,2 +1,2 @@
-# odooteesting
+# odootesting
 Testing for intern
